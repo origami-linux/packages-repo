@@ -1,3 +1,2 @@
 # Packages Repo
-## This is the repository where origami packages are stored
-## You can install one with folder
+## This is the repository where origami packages are stored, you can install these packages with folder
