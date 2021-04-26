@@ -1,0 +1,6 @@
+{
+	"version": "0.1",
+	"size": "4521", // bytes
+	"files": ["/bin/pkg-manager-test"],
+	"dependencies": [],
+}
