@@ -3,5 +3,5 @@
   "description":"Test package to test the folder package manager.",
   "version":"0.1",
   "size":20968,
-  "dependencies":[]
+  "dependencies":[ "ok" ]
 }
