@@ -1,6 +1,0 @@
-{
-  "bin":
-  [
-    "pkg-manager-test":"0777"
-  ]
-}
