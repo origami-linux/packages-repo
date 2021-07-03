@@ -1,0 +1,6 @@
+{
+	"developer":"Origami Linux",
+	"description":"Test package to test the folder package manager.",
+	"latest":"0.1",
+	"dependencies":[]
+}
